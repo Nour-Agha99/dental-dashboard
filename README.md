@@ -1,3 +1,7 @@
+🔗 **Live Demo:** [https://nour-agha99.github.io/dental-dashboard/](https://nour-agha99.github.io/dental-dashboard/)
+
+---
+
 # 🗃 Data Storage — n8n Data Table
 
 All booking data is stored in the **n8n Data Table** with a default status of **Confirmed**.
@@ -26,5 +30,3 @@ Confirmed ──→ Cancelled   (patient clicks cancel link)
 > **Platform:** n8n (Workflow Automation) + React.js  
 > **Type:** Full-Stack Clinic Management System
  Make sure n8n is running on `http://localhost:5678`
-
----
