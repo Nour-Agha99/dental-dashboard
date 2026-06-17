@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dental-dashboard/static/css/main.4b27cc04.css",
+    "main.js": "/dental-dashboard/static/js/main.c10b2344.js",
+    "static/js/453.495a4c22.chunk.js": "/dental-dashboard/static/js/453.495a4c22.chunk.js",
+    "index.html": "/dental-dashboard/index.html",
+    "main.4b27cc04.css.map": "/dental-dashboard/static/css/main.4b27cc04.css.map",
+    "main.c10b2344.js.map": "/dental-dashboard/static/js/main.c10b2344.js.map",
+    "453.495a4c22.chunk.js.map": "/dental-dashboard/static/js/453.495a4c22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b27cc04.css",
+    "static/js/main.c10b2344.js"
+  ]
+}
